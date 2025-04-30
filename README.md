@@ -14,13 +14,6 @@ Use code `O1PRO` for 25% off at checkout.
 
 I get asked all the time for an example of content on Takeoff, so hopefully this workshop gives you a feel for our content and my teaching style.
 
-## About Me
-
-My name is [Mckay](https://www.mckaywrigley.com/).
-
-I'm currently building [Takeoff](https://www.jointakeoff.com/) - the best place on the internet to learn how to build with AI.
-
-Follow me on [X](https://x.com/mckaywrigley) and subscribe to my [YouTube](https://www.youtube.com/channel/UCXZFVVCFahewxr3est7aT7Q) for more free AI coding tutorials & guides.
 
 ## Tech Stack
 
